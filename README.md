@@ -14,6 +14,7 @@ Mecânicas: coletar recursos para sobrevivência (oxigênio, comida), Investiga�
 ---
 
 **História**: 
+
 **Primeiro momento**: Diálogo entre Nebus Abys e sua companhia conspiratória. Eles estão discutindo sobre finalmente terem achado a provável localização de uma civilização submersa antiga. Ao terminarem o diálogo, eles decidem ir até o local.
 
 **Segundo momento**: O protagonista e mais um mergulhador de sua companhia (um amigo do prota) mergulham com seus equipamentos indo em busca da civilização. Eles realmente encontram, porém diferente do que eles pensavam, essa não é uma civilização grande e alegre. Eram poucos e tristes sobreviventes, e o lugar em que eles moravam estava todo destruído. Os mergulhadores tentam dialogar com a civilização, porém todos estavam assustados demais e ninguém conseguia dizer algo além de "ajude-nos". Nessa hora ocorre um abalo sísmico no mar, o protagonista é resgatado a tempo porém o seu amigo some e não é mais visto.
