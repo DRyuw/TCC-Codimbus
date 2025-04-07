@@ -9,7 +9,11 @@ Jogos de referência: Dredge, Dave the Diver. Subnautica
 
 Sites Usados: https://www.mixamo.com/#/?page=1&query=swimmng&type=Motion%2CMotionPack - 
 
-Mecânicas: coletar recursos para sobrevivência (oxigênio, comida), Investigação por meio de visões (Cada peixe dá uma visão diferente) 
+Mecânicas: coletar recursos para sobrevivência (oxigênio, comida no caso os peixes), Investigação por meio de visões (Cada peixe dá uma visão diferente), áreas perigosas para ir por causa da radiotividade, peixes perigosos e sistema de vida para o personagem levar dano caso não tenha: 
+
+1 - Barra de oxigênio cheio
+2 - Barra de comida cheia
+3 - Barra de radiotividade vazia
 
 ---
 
