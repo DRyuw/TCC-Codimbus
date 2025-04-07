@@ -11,5 +11,4 @@ Sites Usados: https://www.mixamo.com/#/?page=1&query=swimmng&type=Motion%2CMotio
 
 Mecânicas: coletar recursos para sobrevivência (oxigênio, comida), Investigação por meio de visões (Cada peixe dá uma visão diferente) 
 
-História: Um mergulhador investigando o desaparecimento de uma civilização, 
-reconstruindo seus últimos momentos por meio de visões do passado por meios de suas investigações o mergulhador descobre que a região que a civilização vivia foi explodida e foi parar no fundo do mar e lá encontra um tesouro amaldiçoado que influência às pessoas por conta disso a civilização foi explodida e o mergulhador sofre da mesma influência  estando lá para libertar ou destruir essa maldição.
+História: 
