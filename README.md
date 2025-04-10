@@ -17,7 +17,7 @@ Mecânicas: coletar recursos para sobrevivência (oxigênio, comida no caso os p
 
 ---
 
-**História**: 
+<h2>**História**:</h2> 
 
 **Primeiro momento**: Diálogo entre Nebus Abys e sua companhia conspiratória. Eles estão discutindo sobre possivelmente terem achado a provável localização de uma civilização submersa antiga. Ao terminarem o diálogo, eles decidem pular do barco e mergulhar.
 
