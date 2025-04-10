@@ -8,11 +8,11 @@ Jogos de referência: Dredge, Dave the Diver, Subnautica
 ---
 Sites Usados: https://www.mixamo.com/#/?page=1&query=swimmng&type=Motion%2CMotionPack - 
 ---
-Mecânicas: coletar recursos para sobrevivência (oxigênio, comida no caso os peixes), Investigação por meio de visões (Cada peixe dá uma visão diferente), áreas perigosas para ir por causa da radiotividade, peixes perigosos e sistema de vida para o personagem levar dano caso não tenha: 
+Mecânicas: coletar recursos para sobrevivência (oxigênio, comida no caso os peixes), Investigação por meio de visões (Cada peixe dá uma visão diferente), áreas perigosas para ir por causa da radiotividade, peixes perigosos e sistema de vida para o personagem levar dano caso não tenha. Jogador perde a noção do tempo enquanto de baixo da água. Boss Fight com alg
 ---
 1 - Barra de oxigênio cheio
 2 - Barra de comida cheia
-3 - Barra de radiotividade vazia<
+3 - Barra de radiotividade vazia
 
 ---
 
@@ -29,6 +29,9 @@ Mecânicas: coletar recursos para sobrevivência (oxigênio, comida no caso os p
 **Quinto momento**: Depois de 1 semana sobrevivendo no mar com apenas peixes radioativos, ele começou a delirar, pensando que estava vendo o amigo dela e a civilização, porém ele mesmo sabia que estava tudo muito feliz para ser verdade, com isso ele tentou realmente abrir os olhos e perceber que aquele nos braços dele não era o seu amigo, mas sim um corpo já decomposto. Nebus Abys fica em choque pois percebe que a civilização estava lá também, porém em pior estado do que como ele tinha visto antes.
 
 **Sexto momento (final)**: Com todas as visões que o Nebus Abys teve, ela pode escolher entre ajudar e conseguir reconstruir e melhorar a civilização que uma vez já foi feliz, ou simplesmente desistir e tentar ter a paz que uma vez ela conseguiu ter, porém com tantas toxinas no corpo dele por causa dos peixes que ele teve que se alimentar faz com que ele morra antes mesmo de chegar na superfice, forçando o player a de fato ajudar a civilização e ter o final "feliz" já que Nebus Abys continua totalmente tóxico por causa dos peixes comidos e por causa da quantidade de tempo exposta em líquidos tóxicos. No final podemos ver que não importa a decisão do jogador, Nebus Abys morre no final por ter ficado no mar tóxico e altamente radioatívo, e piorando comendo peixes por perto daquela área, mostrando que no final tudo isso foi algo que Nebus Abys desejava conseguir mas não pode, assim aumentando mais 1 na quantidade de pessoas na civilização no fundo do mar.
+---
+
+**Visôes**: 
 
 **Resumo do final 1**(ajudando a civilização): Usando as vizões adquiridas com os peixes comidos você vai conseguir liberar ações especiais para poder ajudar e reconstruir a vilização, fazendo com que ela possa voltar e reinar como antes.
 
