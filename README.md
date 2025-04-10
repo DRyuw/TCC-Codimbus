@@ -36,7 +36,7 @@ Mecânicas: coletar recursos para sobrevivência (oxigênio, comida no caso os p
 
 ---
 
-**Visôes**: 
+**Visôes**: Alguns peixes que o personagem come faz com que ele tenha visôes sobre como era antes e como fazer coisas novas, liberando objetivos/caminhos
 
 **Resumo do final 1**(ajudando a civilização): Usando as vizões adquiridas com os peixes comidos você vai conseguir liberar ações especiais para poder ajudar e reconstruir a vilização, fazendo com que ela possa voltar e reinar como antes.
 
