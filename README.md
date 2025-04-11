@@ -45,9 +45,9 @@ Mecânicas: coletar recursos para sobrevivência (oxigênio, comida no caso os p
 **Resumo do final 2**(Saindo sem nada): Quando o jogador escolhe não ajudar, o personagem vira para a superfice e tenta nadar para a sua vida normal como antes, para no final morrer sem conseguir salvar seu amigo, ajudar a civilização e ser esquecido no fundo do mar.
 
 **Explicação do nome do protagonista**: Nebus: Esta palavra não tem uma origem clara ou significado estabelecido em português, latim ou grego, que são línguas frequentemente associadas à terminologia científica. Pode ser uma palavra inventada ou uma variação menos comum de outra palavra. Em latim, "nebulosus" significa "nebuloso", "nublado", mas não parece ter uma ligação direta com o mergulho ou a radioatividade.
-
 Abys: Esta parte da palavra tem uma ligação mais clara. "Abys" provavelmente deriva da palavra inglesa "abyss" ou do grego "abyssos" (ἄβυσσος), que significa abismo, profundidade insondável, especialmente referindo-se às profundezas do oceano. No contexto de mergulho, remete às áreas mais profundas e escuras do mar.
 
+(Explicação a mais/melhor): "Nebus" poderia ser usado metaforicamente para representar algo invisível, perigoso ou de natureza desconhecida, assim como a radiação em certas circunstâncias. Nesse caso, "Nebus Abys" poderia sugerir as profundezas do mar associadas a um perigo invisível ou desconhecido (a radioatividade).
 
 (Mostraremos que esse final na verdade seja óbvio por tosses de sangue ou algumas mudanças na tela/pele da personagem mostrando o quão ela está afetada por causa da radioatividade)
 
