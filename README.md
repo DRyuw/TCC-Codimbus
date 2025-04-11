@@ -19,7 +19,7 @@ Mecânicas: coletar recursos para sobrevivência (oxigênio, comida no caso os p
 Ideias para boss: Caranguejo Yeti, Tubarão Tapete, Enypniastes eximia(?) e Benthocodon.
 ---
 
-<h2>Implementar:</h2> <p>Jogador perde a noção do tempo enquanto de baixo da água. Boss Fight com algum animal máritimo ou algo parecido.</p>
+<h2>Implementar:</h2> <p>Jogador perde a noção do tempo enquanto de baixo da água. Boss Fight com algum animal máritimo ou algo parecido. Algum item que possa diminuir a radiação no personagem.</p>
 
 <h2>História:</h2> 
 
