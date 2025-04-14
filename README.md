@@ -44,7 +44,7 @@ Boss: Caranguejo Yeti
 
 ---
 
-**Visões**: Aumentar a barra de radiação faz com que o personagem tenha visões sobre como era antes e como fazer coisas novas, liberando objetivos/caminhos
+**Visões**: Comendo peixes e aumentar a barra de radiação faz com que o personagem tenha visões sobre como era antes e como fazer coisas novas, liberando objetivos/caminhos. Dependendo de como a radiação esteja você pode ter visões melhores que irão te ajudar muito ou algumas que vão deixar bem vago oque é para fazer.
 
 **Resumo do final 1**(ajudando a civilização): Usando as vizões adquiridas com os peixes comidos você vai conseguir liberar ações especiais para poder ajudar e reconstruir a cilização, fazendo com que ela possa voltar a reinar como antes.
 
