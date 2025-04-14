@@ -17,6 +17,8 @@ Mecânicas: coletar recursos para sobrevivência (remédio,oxigênio, comida no 
 ---
 
 Boss: Caranguejo Yeti
+![image](https://github.com/user-attachments/assets/750f35d0-178f-4087-a4f1-8a5d0572a38c)
+
 ---
 
 <h2>Implementar:</h2> <p>Jogador perde a noção do tempo enquanto de baixo da água. Boss Fight com algum animal máritimo ou algo parecido. Algum item que possa diminuir a radiação no personagem. Sistema de construção ou algo para poder ter a sua "base" ou melhorias.</p>
