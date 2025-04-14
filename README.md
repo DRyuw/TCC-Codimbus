@@ -16,7 +16,7 @@ Mecânicas: coletar recursos para sobrevivência (remédio,oxigênio, comida no 
 3 - Barra de radiotividade vazia
 ---
 
-Ideias para boss: Caranguejo Yeti, Tubarão Tapete, Enypniastes eximia(?), Benthocodon e Camarão pistola.
+Boss: Caranguejo Yeti
 ---
 
 <h2>Implementar:</h2> <p>Jogador perde a noção do tempo enquanto de baixo da água. Boss Fight com algum animal máritimo ou algo parecido. Algum item que possa diminuir a radiação no personagem. Sistema de construção ou algo para poder ter a sua "base" ou melhorias.</p>
