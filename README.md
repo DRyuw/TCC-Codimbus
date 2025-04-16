@@ -9,11 +9,11 @@ Slides:  https://www.canva.com/design/DAGiQ8RzVtQ/uQZLLSwb6tmhosRWqcUl9Q/edit?ut
 Jogos de referência: Dredge, Dave the Diver, Subnautica
 
 ---
-Mecânicas: coletar recursos para sobrevivência (remédio,oxigênio, comida no caso os peixes), Investigação por meio de visões (Comer um peixe faz  aumentar a radiação), áreas perigosas para ir por causa da radiotividade, peixes perigosos e sistema de vida para o personagem levar dano caso não tenha: 
+Mecânicas: coletar recursos para sobrevivência (remédio,oxigênio, comida no caso os peixes), Investigação por meio de visões (Comer um peixe faz  aumentar a radiação), áreas perigosas para ir por causa da radiotividade, peixes perigosos e sistema de vida para o personagem levar dano caso tenha: 
 ---
-1 - Barra de oxigênio cheio
-2 - Barra de comida cheia
-3 - Barra de radiotividade vazia
+1 - Barra de oxigênio vazia
+2 - Barra de comida vazia
+3 - Barra de radiotividade cheia
 ---
 
 ![image](https://github.com/user-attachments/assets/750f35d0-178f-4087-a4f1-8a5d0572a38c)
