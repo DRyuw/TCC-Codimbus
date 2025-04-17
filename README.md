@@ -1,3 +1,4 @@
+
 # TCC-Codimbus
 
 Site: https://www.canva.com/design/DAGiWkJePXw/tyco0hJWMH0x8zMF2FaCYw/edit?utm_content=DAGiWkJePXw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
@@ -18,7 +19,10 @@ Mecânicas: coletar recursos para sobrevivência (remédio,oxigênio, comida no 
 
 ![image](https://github.com/user-attachments/assets/750f35d0-178f-4087-a4f1-8a5d0572a38c)
 
-Boss: Caranguejo Yeti
+Bosses: Caranguejo Yeti
+Polvo de Anéis Azuis
+Camarão Pistola
+Tubarão
 ---
 
 
@@ -26,12 +30,7 @@ Boss: Caranguejo Yeti
 
 <h2>História:</h2> 
 
-**Primeiro momento**: Diálogo entre Nebus Abys e sua companhia conspiratória. Eles estão discutindo sobre possivelmente terem achado a provável localização de uma civilização submersa antiga. Ao terminarem o diálogo, eles decidem pular do barco e mergulhar.
-
-**Segundo momento**: O protagonista e mais um mergulhador de sua companhia (um amigo do prota) mergulham com seus equipamentos indo em busca da civilização durante o caminho eles passam por uma instalação submersa da compania e acabam encontrando um remédio para radiação, depois de pegarem mais alguns suprimentos eles partem em busca da civilização. Depois de procurar por algum tempo eles acabam encontrando, porém diferente do que eles pensavam, essa não é uma civilização grande e alegre. Eram poucos e tristes sobreviventes, e o lugar em que eles moravam estava todo destruído. Os mergulhadores tentam dialogar com a civilização, porém todos estavam assustados demais e ninguém conseguia dizer algo além de "ajude-nos". Nessa hora ocorre um abalo sísmico no mar, o protagonista é resgatado a tempo porém o seu amigo some e não é mais visto.
-
-**Terceiro momento**: No dia seguinte, o protagonista chamou outros mergulhadores da companhia para irem mergulhar novamente, para tentar achar seu amigo e a civilização, porém ninguém foi ajudá-lo. Alegaram que era muito perigoso irem para o mar um dia após ter ocorrido um abalo sísmico. Feito isso, o protagonista, indignado, decidiu ir sozinho investigar.
-
+ 
 **Quarto momento**: Chegando no mar, Nebus Abys não acha nada. Sem amigo, sem civilização, sequer achou os destroços das paredes onde civilização morava. Quanto mais fundo ele procura mais ele se pergunta onde está tudo,com isso se passam dias sem nenhum avanço sobre as procuras, forçando ele a comer os peixes que estão ali perto do mar. Os peixes são comestíveis e eram parte da civilização antiga, ao ponto de fazerem parte de histórias e até lendas daquela época. Devido ao abalo sísmico, uma usina nuclear submersa foi explodida, espalhando radioatividade por todo o oceano local fazendo os peixes ficarem radioativos e altamente tóxicos. Essa radioatividade fez com que o Nebus Abys tenha visões de como a civilização foi totalmente destruída.
 
 **Quinto momento**: Depois de alguns dias sobrevivendo no mar com apenas peixes radioativos, ele começa a ter visões e por causa das visões ele começa a perder a noção do tempo, e acaba pensando que estava vendo o amigo dela e a civilização, porém ele mesmo sabia que estava tudo muito bom para ser verdade, com isso ele percebe que aquele nos braços dele não era o seu amigo, mas sim um corpo já decomposto. Nebus Abys fica em choque depois de perceber que a civilização estava lá também, porém em um estado pior do que ele tinha visto anteriormente e as pessoas já não estavam mais no local.
