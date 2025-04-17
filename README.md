@@ -10,11 +10,7 @@ Slides:  https://www.canva.com/design/DAGiQ8RzVtQ/uQZLLSwb6tmhosRWqcUl9Q/edit?ut
 Jogos de referência: Dredge, Dave the Diver, Subnautica
 
 ---
-Mecânicas: coletar recursos para sobrevivência (remédio,oxigênio, comida no caso os peixes), Investigação por meio de visões (Comer um peixe faz  aumentar a radiação), áreas perigosas para ir por causa da radiotividade, peixes perigosos e sistema de vida para o personagem levar dano caso tenha: 
----
-1 - Barra de oxigênio vazia
-2 - Barra de comida vazia
-3 - Barra de radiotividade cheia
+Mecânicas: Combate com uma lança de pesca, arpão, e tridentes. Boss Rush porém a cada boss derrotado ele te dará uma memória para poder ver tanto uma "dica" sobre o próximo boss quanto uma parte da história.
 ---
 
 Bosses:
