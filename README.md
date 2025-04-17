@@ -18,12 +18,12 @@ Mecânicas: coletar recursos para sobrevivência (remédio,oxigênio, comida no 
 ---
 
 Bosses:
-- Caranguejo Yeti - 
-- Polvo de Anéis Azuis - 
-- Camarão Pistola - 
-- Tubarão Lanterna -
-- Enguia - 
-- Peixe Pescador - 
+- 1º Polvo de Anéis Azuis -  50 meteros - Nome do boss:
+- 2º Camarão Pistola - 30-100 meteros - Nome do boss:
+- 3º Tubarão Lanterna - 160-1000 metros - Nome do boss:
+- 4º Caranguejo Yeti - 2,200 meteros - Nome do boss:
+- 5º Enguia - 1.000 e 4.000 metros - Nome do boss:
+- Final: Peixe Pescador - 1.000 e 4.000 metros - Nome do boss:
 ---
 # Caranguejo Yeti
 ![image](https://github.com/user-attachments/assets/750f35d0-178f-4087-a4f1-8a5d0572a38c)
