@@ -21,9 +21,9 @@ Bosses:
 - Caranguejo Yeti - 
 - Polvo de Anéis Azuis - 
 - Camarão Pistola - 
-- Tubarão 
-- Enguia
-- Peixe Pescador
+- Tubarão Lanterna -
+- Enguia - 
+- Peixe Pescador - 
 ---
 # Caranguejo Yeti
 ![image](https://github.com/user-attachments/assets/750f35d0-178f-4087-a4f1-8a5d0572a38c)
@@ -34,7 +34,8 @@ Bosses:
 # Camarão pistola
 ![image](https://github.com/user-attachments/assets/25fdbd85-42b2-42ca-90b5-59203c90c0d7)
 
-# 
+# Tubarão Lanterna
+![image](https://github.com/user-attachments/assets/60aff476-fdf4-44a7-977a-f86d8dbd15fd)
 
 # Enguia
 ![image](https://github.com/user-attachments/assets/614c945c-0aee-448c-833a-a254c82f8503)
