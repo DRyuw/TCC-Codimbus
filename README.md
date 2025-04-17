@@ -10,7 +10,7 @@ Slides:  https://www.canva.com/design/DAGiQ8RzVtQ/uQZLLSwb6tmhosRWqcUl9Q/edit?ut
 # Jogos de referência: Dredge, Dave the Diver, Subnautica, Hollow knight, Titan Souls, Eldest Souls, Cuphead
 
 ---
-Mecânicas: Combate com uma lança de pesca, arpão, e tridentes. Boss Rush porém a cada boss derrotado ele te dará uma memória para poder ver tanto uma "dica" sobre o próximo boss quanto uma parte da história.
+Mecânicas: Um Boss Rush com o combate usando uma lança de pesca, arpão, e tridentes. Boss Rush porém a cada boss derrotado ele te dará uma memória para poder ver tanto uma "dica" sobre o próximo boss quanto uma parte da história.
 ---
 # Armas:
 
