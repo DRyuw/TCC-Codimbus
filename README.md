@@ -17,13 +17,23 @@ Mecânicas: coletar recursos para sobrevivência (remédio,oxigênio, comida no 
 3 - Barra de radiotividade cheia
 ---
 
-![image](https://github.com/user-attachments/assets/750f35d0-178f-4087-a4f1-8a5d0572a38c)
-
-Bosses: Caranguejo Yeti
-Polvo de Anéis Azuis
-Camarão Pistola
-Tubarão
+Bosses:
+- Caranguejo Yeti
+- Polvo de Anéis Azuis
+- Camarão Pistola
+- Tubarão
+- Enguia
+- Peixe Pescador
 ---
+![image](https://github.com/user-attachments/assets/750f35d0-178f-4087-a4f1-8a5d0572a38c)
+# Caranguejo Yeti
+<br>
+![image](https://github.com/user-attachments/assets/2955a4f5-d46f-47ef-8710-8f54b08cc84e)
+# Polvo de anéis azuis
+<br>
+
+![image](https://github.com/user-attachments/assets/993f6481-5265-4878-b062-66715d8729c8)
+
 
 
 <h2>Implementar:</h2> <p>Jogador perde a noção do tempo enquanto de baixo da água. Boss Fight com algum animal máritimo ou algo parecido. Algum item que possa diminuir a radiação no personagem. Sistema de construção ou algo para poder ter a sua "base" ou melhorias.</p>
