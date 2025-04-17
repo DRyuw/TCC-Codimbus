@@ -7,13 +7,25 @@ Site: https://www.canva.com/design/DAGiWkJePXw/tyco0hJWMH0x8zMF2FaCYw/edit?utm_c
 Slides:  https://www.canva.com/design/DAGiQ8RzVtQ/uQZLLSwb6tmhosRWqcUl9Q/edit?utm_content=DAGiQ8RzVtQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ---
-Jogos de referência: Dredge, Dave the Diver, Subnautica
+# Jogos de referência: Dredge, Dave the Diver, Subnautica, Hollow knight, Dead souls
 
 ---
 Mecânicas: Combate com uma lança de pesca, arpão, e tridentes. Boss Rush porém a cada boss derrotado ele te dará uma memória para poder ver tanto uma "dica" sobre o próximo boss quanto uma parte da história.
 ---
+# Armas:
 
-Bosses:
+# Lança de pesca (Arma de perto):
+![image](https://github.com/user-attachments/assets/4147ef7a-7c82-4c30-84b3-7af213b71a48)
+
+# Arpão (Arma de longe):
+![image](https://github.com/user-attachments/assets/925fdee1-ea07-4daa-9ff7-9bf682136729)
+
+# Tridente (Tanto de perto quanto longe para lançar):
+![image](https://github.com/user-attachments/assets/9114ddbf-9f60-491b-a7f9-df8dee02a94f)
+
+--
+
+# Bosses:
 - 1º Polvo de Anéis Azuis -  50 meteros - Nome do boss:
 - 2º Camarão Pistola - 30-100 meteros - Nome do boss:
 - 3º Tubarão Lanterna - 160-1000 metros - Nome do boss:
