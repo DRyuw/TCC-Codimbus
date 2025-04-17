@@ -23,7 +23,7 @@ Mecânicas: Combate com uma lança de pesca, arpão, e tridentes. Boss Rush por�
 # Tridente (Tanto de perto quanto longe para lançar):
 ![image](https://github.com/user-attachments/assets/9114ddbf-9f60-491b-a7f9-df8dee02a94f)
 
---
+---
 
 # Bosses:
 - 1º Polvo de Anéis Azuis -  50 meteros - Nome do boss:
