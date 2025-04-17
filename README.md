@@ -18,10 +18,10 @@ Mecânicas: coletar recursos para sobrevivência (remédio,oxigênio, comida no 
 ---
 
 Bosses:
-- Caranguejo Yeti
-- Polvo de Anéis Azuis
-- Camarão Pistola
-- Tubarão
+- Caranguejo Yeti - 
+- Polvo de Anéis Azuis - 
+- Camarão Pistola - 
+- Tubarão 
 - Enguia
 - Peixe Pescador
 ---
@@ -33,6 +33,8 @@ Bosses:
 
 # Camarão pistola
 ![image](https://github.com/user-attachments/assets/25fdbd85-42b2-42ca-90b5-59203c90c0d7)
+
+# 
 
 # Enguia
 ![image](https://github.com/user-attachments/assets/614c945c-0aee-448c-833a-a254c82f8503)
