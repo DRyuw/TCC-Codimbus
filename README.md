@@ -55,10 +55,9 @@ Mecânicas: Um Boss Rush com o combate usando uma lança de pesca, arpão, e tri
 
 <h2>Implementar:</h2> <p>Jogador perde a noção do tempo enquanto de baixo da água. Boss Fight com algum animal máritimo ou algo parecido. Algum item que possa diminuir a radiação no personagem. Sistema de construção ou algo para poder ter a sua "base" ou melhorias.</p>
 
-Nome do personagem: Nebus Abys
+**Nome do personagem**: Abys Nebus
 
 <h2>História:</h2> 
-
  
 ---
 
