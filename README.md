@@ -29,6 +29,7 @@ Lança de pesca solta raios por conta da radiação.
 Arpão ao atirar o arpão a flecha dele emitirá uma luz forte que deixara os inimigos hipnotizados.
 Tridente ele gera escudos para o protagonista e consegue quebrar pedras para avançar no jogo
 
+---
 # Bosses:
 - 1º Polvo de Anéis Azuis -  50 meteros - Nome do boss:
 - 2º Camarão Pistola - 30-100 meteros - Nome do boss:
