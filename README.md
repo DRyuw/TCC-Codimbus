@@ -25,7 +25,7 @@ Mecânicas: Um Boss Rush com o combate usando uma lança de pesca, arpão, e tri
 
 ---
 # Habilidade das Armas:
-Lança de pesca solta raios por conta da radiação.
+°Lança de pesca solta raios por conta da radiação.
 Arpão ao atirar o arpão a flecha dele emitirá uma luz forte que deixara os inimigos hipnotizados.
 Tridente ele gera escudos para o protagonista e consegue quebrar pedras para avançar no jogo
 
