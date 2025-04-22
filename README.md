@@ -24,6 +24,10 @@ Mecânicas: Um Boss Rush com o combate usando uma lança de pesca, arpão, e tri
 ![image](https://github.com/user-attachments/assets/9114ddbf-9f60-491b-a7f9-df8dee02a94f)
 
 ---
+# Habilidade das Armas:
+Lança de pesca solta raios por conta da radiação.
+Arpão ao atirar o arpão a flecha dele emitirá uma luz forte que deixara os inimigos hipnotizados.
+Tridente ele gera escudos para o protagonista e consegue quebrar pedras para avançar no jogo
 
 # Bosses:
 - 1º Polvo de Anéis Azuis -  50 meteros - Nome do boss:
