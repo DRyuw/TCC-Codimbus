@@ -72,7 +72,6 @@ Depois do acidente, e a expansão da radioatividade pelo mar, seu amigo Kaio mor
  
 ---
 
-<hr>
 
 **Visões**: A cada boss derrotado você terá uma visão que pode tanto te ajudar a derrotar o próximo boss e uma parte da história.
 
