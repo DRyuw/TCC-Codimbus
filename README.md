@@ -69,7 +69,10 @@ Mecânicas: Um Boss Rush com o combate usando uma lança de pesca, arpão, e tri
 Ocorre um abalo sísmico, gera uma explosão em um reator nuclear, após a explosão a radiação é espalhada pelo oceano, indo principalmente para o fundo em áreas de maior concentração, onde se encontram maiores perigos e inimigos. A radiação afetou os animais que moravam no oceano, principalmente os que residem no fundo do oceano, afetando seu tamanho e agressividade. Assim quando maior a profundidade maior o nível de radiação.
 Depois do acidente, e a expansão da radioatividade pelo mar, seu amigo Kaio morre para a radiação. Abys Nebus, não sabendo da morte do amigo, vai em busca dele, ele vai descendo na caverna e passando por puzzles e andando por pontos onde teria visões do caminho percorrido pelo colega. Ao final ele encontraria o vilão e descobriria que tudo foi um plano do caranguejo que atrai vítimas com ilusões. 
  </p>
+ 
 ---
+
+<hr>
 
 **Visões**: A cada boss derrotado você terá uma visão que pode tanto te ajudar a derrotar o próximo boss e uma parte da história.
 
