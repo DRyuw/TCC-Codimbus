@@ -15,7 +15,7 @@ Mecânicas: Um Boss Rush com o combate usando uma lança de pesca, arpão, e tri
 # Armas:
 
 # Lança de pesca (Arma de perto):
-****![image](https://github.com/user-attachments/assets/b87ecfbe-ee7f-48d6-9f94-f08bfdfdec78)
+![image](https://github.com/user-attachments/assets/b87ecfbe-ee7f-48d6-9f94-f08bfdfdec78)
 
 # Arpão (Arma de longe):
 ![image](https://github.com/user-attachments/assets/925fdee1-ea07-4daa-9ff7-9bf682136729)
