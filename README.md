@@ -37,8 +37,6 @@ Mecânicas: Um Boss Rush com o combate usando uma lança de pesca, arpão, e tri
 - 5º Enguia - 1.000 e 4.000 metros - Nome do boss:
 - Final: Peixe Pescador - 1.000 e 4.000 metros - Nome do boss:
 ---
-# Caranguejo Yeti
-![image](https://github.com/user-attachments/assets/750f35d0-178f-4087-a4f1-8a5d0572a38c)
 
 # Polvo de anéis azuis
 ![image](https://github.com/user-attachments/assets/2955a4f5-d46f-47ef-8710-8f54b08cc84e)
@@ -48,6 +46,9 @@ Mecânicas: Um Boss Rush com o combate usando uma lança de pesca, arpão, e tri
 
 # Tubarão Lanterna
 ![image](https://github.com/user-attachments/assets/60aff476-fdf4-44a7-977a-f86d8dbd15fd)
+
+# Caranguejo Yeti
+![image](https://github.com/user-attachments/assets/750f35d0-178f-4087-a4f1-8a5d0572a38c)
 
 # Enguia
 ![image](https://github.com/user-attachments/assets/614c945c-0aee-448c-833a-a254c82f8503)
@@ -59,11 +60,11 @@ Mecânicas: Um Boss Rush com o combate usando uma lança de pesca, arpão, e tri
 
 1- Polvo de aneis azuis:
 
-2- Camarão pistola: 
+2- Camarão pistola: Socos fortes e rápidos, com tanto golpes de perto com socos ou golpes de longe com nolhas.
 
 3- Tubarão lanterna:
 
-4- Caranguejo Yeti:
+4- Caranguejo Yeti: Braços gigantes com garras tanto paramachucar o player quanto para soltar os lasers estilo Godzila, derrubando pedras e destruindo o cenário 
 
 5- Enguia elétrica:
 
