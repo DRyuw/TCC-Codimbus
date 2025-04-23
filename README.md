@@ -33,12 +33,12 @@ Para o Design de tanto da lança quanto a tridente, fazendo com que as lâminas 
 
 ---
 # Bosses:
-- 1º Polvo de Anéis Azuis -  50 meteros - Nome do boss: Spectrum Phantom (Evocando uma imagem mental ilusória. Similar a "phantasma" em grego, sugerindo algo ilusório.)
-- 2º Camarão Pistola - 30-100 meteros - Nome do boss: 
-- 3º Tubarão Lanterna - 160-1000 metros - Nome do boss:
-- 4º Caranguejo Yeti - 2,200 meteros - Nome do boss:
-- 5º Enguia - 1.000 e 4.000 metros - Nome do boss:
-- Final: Peixe Pescador - 1.000 e 4.000 metros - Nome do boss:
+- 1º Polvo de Anéis Azuis -  50 meteros - Nome do boss: Spectrum Ring (Por causa da aparência e dos anéis azuis em volta do corpo, ele traz um ar místico assim sendo um "Spectrum")
+- 2º Camarão Pistola - 30-100 meteros - Nome do boss: Bomb Punch (Referência à potência do "soco" do camarão, o comparando-o com uma bomba)
+- 3º Tubarão Lanterna - 160-1000 metros - Nome do boss: Light Titan (Mesmo a espécie original sendo minúscula ela será tratada como gigante no jogo por conta da radiação, e a espécie desse tubarão produz luz bioluminescente)
+- 4º Caranguejo Yeti - 2,200 meteros - Nome do boss: Zilla Yeti (Faz referência ao Godzila e ao nome da espécie, já que ela será inspirada bastante na obra e no kaiju)
+- 5º Enguia - 1.000 e 4.000 metros - Nome do boss: Guillashock (Uma abreviação para anguilla que é enguia no latim e já que é um animal elétrico colocamos no nome sua característica marcante)
+- Final: Peixe Pescador - 1.000 e 4.000 metros - Nome do boss: Glimmering Doom (Já que ele irá atrair o jogador para ele, tivemos a ideia de fazer jus a luz que ele atrai os peixes porém agora atrair o Nebus, que é um humano)
 ---
 
 # Polvo de anéis azuis
