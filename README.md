@@ -61,17 +61,17 @@ Para o Design de tanto da lança quanto a tridente, fazendo com que as lâminas 
 
 # Habilidade de cada boss:
 
-1- Polvo de aneis azuis:
+1- Polvo de aneis azuis: Com os seus aneis no corpo ele irá lançar raios psíquicos na direção do jogador, fazendo com que ele aprenda como se movimentar na água já que será o primeiro chefe
 
-2- Camarão pistola: Socos fortes e rápidos, com tanto golpes de perto com socos ou golpes de longe com nolhas.
+2- Camarão pistola: Socos fortes e rápidos, com tanto golpes de perto com socos ou golpes de longe com bolhas.
 
-3- Tubarão lanterna:
+3- Tubarão lanterna: Com sua luz e seu olhar ele poderá cegar o jogador e dar dano nele, e por causa do tamanho colossal dele qualquer mordida ou movimento pode causar movimentos insanos dentro da água, fazendo com que o jogador tenha tanto o chefe quanto o ambiente como desafio.
 
-4- Caranguejo Yeti: Braços gigantes com garras tanto paramachucar o player quanto para soltar os lasers estilo Godzila, derrubando pedras e destruindo o cenário 
+4- Caranguejo Yeti: Braços gigantes com garras tanto para machucar o player quanto para soltar os lasers como Godzila, derrubando pedras, destruindo o cenário e danificando o jogador.
 
-5- Enguia elétrica:
+5- Enguia elétrica: Com seu corpor estilo serpente e com sua eletrecidade vamos fazer com que o jogador use uma habilidade única para conseguir ganhar dela, que seria um "Escudo de gelo" para não levar dano dos seus raios, já que a água é um ótimo condutor de eletrecidade.
 
-6- Peixe pescador:
+6- Peixe pescador: Usando sua "Isca" que imita o amigo do jogador, ele consegue fazer com que o jogador primeiro lute contra o amigo dele pra depois revelar sua forma, dando tanto mordidas quanto luzes que cegam o jogador.
 
 
 <h2>Implementar:</h2> <p>Jogador perde a noção do tempo enquanto de baixo da água. Boss Fight com algum animal máritimo ou algo parecido. Algum item que possa diminuir a radiação no personagem. Sistema de construção ou algo para poder ter a sua "base" ou melhorias.</p>
