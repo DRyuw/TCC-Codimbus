@@ -21,12 +21,12 @@ Mecânicas: Um Boss Rush com o combate usando uma lança de pesca, arpão, e tri
 ![image](https://github.com/user-attachments/assets/925fdee1-ea07-4daa-9ff7-9bf682136729)
 
 # Tridente (Tanto de perto quanto longe para lançar):
-![image](https://github.com/user-attachments/assets/9114ddbf-9f60-491b-a7f9-df8dee02a94f)
+![image](https://github.com/user-attachments/assets/a1e4da44-dbd3-43ba-8934-dae310ba389d)
 
 ---
 # Habilidade das Armas:
 - Lança de pesca solta raios por conta da radiação.
-- Arpão ao atirar o arpão a flecha dele emitirá uma luz forte que deixara os inimigos hipnotizados.
+- Arpão ao atirar o arpão a flecha dele emitirá uma luz forte que deixara os inimigos desorientados e fazendo com que você vá até aquele lugar.
 - Tridente ele gera escudos para o protagonista e consegue quebrar pedras para avançar no jogo
 
 ---
@@ -56,6 +56,8 @@ Mecânicas: Um Boss Rush com o combate usando uma lança de pesca, arpão, e tri
 # Peixe pescador
 ![image](https://github.com/user-attachments/assets/993f6481-5265-4878-b062-66715d8729c8)
 
+# Habilidade de cada boss:
+--
 
 
 <h2>Implementar:</h2> <p>Jogador perde a noção do tempo enquanto de baixo da água. Boss Fight com algum animal máritimo ou algo parecido. Algum item que possa diminuir a radiação no personagem. Sistema de construção ou algo para poder ter a sua "base" ou melhorias.</p>
@@ -67,7 +69,7 @@ Mecânicas: Um Boss Rush com o combate usando uma lança de pesca, arpão, e tri
  <h3>Caverna subaquática</h3>
  <p>
 Ocorre um abalo sísmico, gera uma explosão em um reator nuclear, após a explosão a radiação é espalhada pelo oceano, indo principalmente para o fundo em áreas de maior concentração, onde se encontram maiores perigos e inimigos. A radiação afetou os animais que moravam no oceano, principalmente os que residem no fundo do oceano, afetando seu tamanho e agressividade. Assim quando maior a profundidade maior o nível de radiação.
-Depois do acidente, e a expansão da radioatividade pelo mar, seu amigo Kaio morre para a radiação. Abys Nebus, não sabendo da morte do amigo, vai em busca dele, ele vai descendo na caverna e passando por puzzles e andando por pontos onde teria visões do caminho percorrido pelo colega. Ao final ele encontraria o vilão e descobriria que tudo foi um plano do caranguejo que atrai vítimas com ilusões. 
+Depois do acidente, e a expansão da radioatividade pelo mar, seu amigo Kaio morre para a radiação. Abys Nebus, não sabendo da morte do amigo, vai em busca dele, ele vai descendo na caverna e passando por puzzles e andando por pontos onde teria visões do caminho percorrido pelo colega. Ao final ele encontraria o vilão e descobriria que tudo foi um plano do (sem nome do boss ainda) "peixe pescador" que atrai vítimas com ilusões. 
  </p>
  
 ---
