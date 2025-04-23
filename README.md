@@ -25,9 +25,8 @@ Mecânicas: Um Boss Rush com o combate usando uma lança de pesca, arpão, e tri
 
 ---
 # Habilidade das Armas:
-- Lança de pesca solta raios por conta da radiação.
+- Lança de pesca/Tridente solta uma pressão de água por conta da radiação e também gera escudos para o protagonista e consegue quebrar pedras para avançar no jogo
 - Arpão ao atirar o arpão a flecha dele emitirá uma luz forte que deixara os inimigos desorientados e fazendo com que você vá até aquele lugar.
-- Tridente ele gera escudos para o protagonista e consegue quebrar pedras para avançar no jogo
 
 ---
 # Bosses:
@@ -57,7 +56,18 @@ Mecânicas: Um Boss Rush com o combate usando uma lança de pesca, arpão, e tri
 ![image](https://github.com/user-attachments/assets/993f6481-5265-4878-b062-66715d8729c8)
 
 # Habilidade de cada boss:
---
+
+1- Polvo de aneis azuis:
+
+2- Camarão pistola: 
+
+3- Tubarão lanterna:
+
+4- Caranguejo Yeti:
+
+5- Enguia elétrica:
+
+6- Peixe pescador:
 
 
 <h2>Implementar:</h2> <p>Jogador perde a noção do tempo enquanto de baixo da água. Boss Fight com algum animal máritimo ou algo parecido. Algum item que possa diminuir a radiação no personagem. Sistema de construção ou algo para poder ter a sua "base" ou melhorias.</p>
