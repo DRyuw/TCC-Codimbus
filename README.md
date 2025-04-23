@@ -33,8 +33,8 @@ Para o Design de tanto da lança quanto a tridente, fazendo com que as lâminas 
 
 ---
 # Bosses:
-- 1º Polvo de Anéis Azuis -  50 meteros - Nome do boss:
-- 2º Camarão Pistola - 30-100 meteros - Nome do boss:
+- 1º Polvo de Anéis Azuis -  50 meteros - Nome do boss: Spectrum Phantom (Evocando uma imagem mental ilusória. Similar a "phantasma" em grego, sugerindo algo ilusório.)
+- 2º Camarão Pistola - 30-100 meteros - Nome do boss: 
 - 3º Tubarão Lanterna - 160-1000 metros - Nome do boss:
 - 4º Caranguejo Yeti - 2,200 meteros - Nome do boss:
 - 5º Enguia - 1.000 e 4.000 metros - Nome do boss:
