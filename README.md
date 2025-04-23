@@ -74,8 +74,6 @@ Para o Design de tanto da lança quanto a tridente, fazendo com que as lâminas 
 6- Peixe pescador: Usando sua "Isca" que imita o amigo do jogador, ele consegue fazer com que o jogador primeiro lute contra o amigo dele pra depois revelar sua forma, dando tanto mordidas quanto luzes que cegam o jogador.
 
 
-<h2>Implementar:</h2> <p>Jogador perde a noção do tempo enquanto de baixo da água. Boss Fight com algum animal máritimo ou algo parecido. Algum item que possa diminuir a radiação no personagem. Sistema de construção ou algo para poder ter a sua "base" ou melhorias.</p>
-
 **Nome do personagem**: Abys Nebus
 
 <h2>História:</h2> 
