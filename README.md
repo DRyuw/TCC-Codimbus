@@ -71,7 +71,7 @@ Para o Design de tanto da lança quanto a tridente, fazendo com que as lâminas 
 
 5- Enguia elétrica: Com seu corpo estilo serpente se move rapidamente pela água e gera raios de todo seu corpo, consegue gerar um escudo de raios em volta de seu corpo e consegue atrair objetos com sua eletricidade. Vamos fazer com que o jogador use uma habilidade única para conseguir ganhar dela, que seria um "Escudo de gelo" para não levar dano dos seus raios, já que a água é um ótimo condutor de eletrecidade.
 
-6- Peixe pescador: Usando sua "Isca" que imita o amigo do jogador, ele consegue fazer com que o jogador primeiro lute contra o amigo dele pra depois revelar sua forma, dando tanto mordidas quanto luzes que cegam o jogador.
+6- Peixe pescador: Usando sua "Isca" que imita o amigo do jogador, ele consegue fazer com que o jogador primeiro lute contra o amigo dele pra depois revelar sua forma, dando tanto mordidas quanto luzes que cegam o jogador e com a "isca" ele faz ilusões dele mesmo para confundir o player para ele não saber onde está.
 
 
 **Nome do personagem**: Abys Nebus
