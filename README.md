@@ -81,7 +81,7 @@ Para o Design de tanto da lança quanto a tridente, fazendo com que as lâminas 
  <h3>Caverna subaquática</h3>
  <p>
 Ocorre um abalo sísmico, gera uma explosão em um reator nuclear, após a explosão a radiação é espalhada pelo oceano, indo principalmente para o fundo em áreas de maior concentração, onde se encontram maiores perigos e inimigos. A radiação afetou os animais que moravam no oceano, principalmente os que residem no fundo do oceano, afetando seu tamanho e agressividade. Assim quando maior a profundidade maior o nível de radiação.
-Depois do acidente, e a expansão da radioatividade pelo mar, seu amigo Kaio morre para a radiação. Abys Nebus, não sabendo da morte do amigo, vai em busca dele, ele vai descendo na caverna e passando por puzzles e andando por pontos onde teria visões do caminho percorrido pelo colega. Ao final ele encontraria o vilão e descobriria que tudo foi um plano do (sem nome do boss ainda) "peixe pescador" que atrai vítimas com ilusões. 
+Depois do acidente, e a expansão da radioatividade pelo mar. Vários anos depois Abys Nebus e seu amigo Kaio estão explorando a região sem saber dos perigos da radiação e nisso ocorre outro abalo sísmico e Kaio desaparece no oceano, então você decide se aventurar pelas águas na esperança de encontrar seu amigo, ele vai descendo na caverna e passando por puzzles e andando por pontos onde teria visões do caminho percorrido pelo amigo. Futuramente é descoberto que Kaio morreu para o peixe pescador apelidado de Glimmering Doom e descobre que ele usa a imagem do amigo para atrair suas presas para se alimentar.
  </p>
  
 ---
