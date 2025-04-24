@@ -29,7 +29,7 @@ Para o Design de tanto da lança quanto a tridente, fazendo com que as lâminas 
 ---
 # Habilidade das Armas:
 - Lança de pesca/Tridente solta uma pressão de água por conta da radiação e também gera escudos para o protagonista e consegue quebrar pedras para avançar no jogo
-- Arpão ao atirar o arpão a flecha dele emitirá uma luz forte que deixara os inimigos desorientados e fazendo com que você vá até aquele lugar.
+- Arpão ao atirar o arpão a flecha dele emitirá uma luz forte que deixara os inimigos desorientados e fazendo com que você vá até aquele lugar, como se fosse um gancho.
 
 ---
 # Bosses:
@@ -71,17 +71,17 @@ Para o Design de tanto da lança quanto a tridente, fazendo com que as lâminas 
 
 5- Enguia elétrica: Com seu corpo estilo serpente se move rapidamente pela água e gera raios de todo seu corpo, consegue gerar um escudo de raios em volta de seu corpo e consegue atrair objetos com sua eletricidade. Vamos fazer com que o jogador use uma habilidade única para conseguir ganhar dela, que seria um "Escudo de gelo" para não levar dano dos seus raios, já que a água é um ótimo condutor de eletrecidade.
 
-6- Peixe pescador: Usando sua "Isca" que imita o amigo do jogador, ele consegue fazer com que o jogador primeiro lute contra o amigo dele pra depois revelar sua forma, dando tanto mordidas quanto luzes que cegam o jogador e com a "isca" ele faz ilusões dele mesmo para confundir o player para ele não saber onde está.
+Final- Peixe pescador: Usando sua "Isca" que imita o amigo do jogador, ele consegue fazer com que o jogador primeiro lute contra o amigo dele pra depois revelar sua forma, dando tanto mordidas quanto luzes que cegam o jogador e com a "isca" ele faz ilusões dele mesmo para confundir o player para ele não saber onde está.
 
 
-**Nome do personagem**: Abys Nebus
+**Nome do personagem**: Nebus Abys
 
 <h2>História:</h2> 
 
  <h3>Caverna subaquática</h3>
- <p>
-Ocorre um abalo sísmico, gera uma explosão em um reator nuclear, após a explosão a radiação é espalhada pelo oceano, indo principalmente para o fundo em áreas de maior concentração, onde se encontram maiores perigos e inimigos. A radiação afetou os animais que moravam no oceano, principalmente os que residem no fundo do oceano, afetando seu tamanho e agressividade. Assim quando maior a profundidade maior o nível de radiação.
-Depois do acidente, e a expansão da radioatividade pelo mar. Vários anos depois Abys Nebus e seu amigo Kaio estão explorando a região sem saber dos perigos da radiação e nisso ocorre outro abalo sísmico e Kaio desaparece no oceano, então você decide se aventurar pelas águas na esperança de encontrar seu amigo, ele vai descendo na caverna e passando por puzzles e andando por pontos onde teria visões do caminho percorrido pelo amigo. Futuramente é descoberto que Kaio morreu para o peixe pescador apelidado de Glimmering Doom e descobre que ele usa a imagem do amigo para atrair suas presas para se alimentar.
+ <p> No famoso triângulo das bermudas havia um mistério lá no fundo, tesouros e artefatos que nenhum humano seria capaz de se quer pensar em conseguir colocar as mãos nele, isso chamou a atenção do Nebus Abys e do amigo dele Kaio, porém eles apenas pesquisaram sobre isso, até que um dia ocorre um abalo sísmico que gera uma explosão em um reator nuclear. Após a explosão a radiação é espalhada pelo oceano, indo principalmente para o fundo em áreas de maior concentração, onde se encontram maiores perigos e inimigos.
+ A radiação afetou os animais que moravam no oceano, principalmente os que vivem no fundo, afetando seu tamanho, agressividade e até dando poderes para alguns. Sendo assim quanto maior a profundidade, maior será nível da radiação.
+Depois do incidente, e a expansão da radioatividade pelo mar. Alguns meses depois, Nebus Abys e seu amigo, Kaio estão explorando a região sem saber dos perigos da radiação e nisso o seu amigo é levado por uma luz misteriosa que Nebus não pode ver, e Kaio desapareceu no oceano, então o Nebus decide se aventurar pelas águas na esperança de encontrar o seu amigo, ele vai descendo na caverna e passando por puzzles e andando por pontos onde teria visões do caminho percorrido pelo amigo. Futuramente é descoberto que Kaio morreu para o peixe pescador apelidado de Glimmering Doom e descobre que ele usa a imagem do amigo para atrair suas presas para se alimentar.
  </p>
  
 ---
