@@ -61,7 +61,7 @@ Para o Design de tanto da lança quanto a tridente, fazendo com que as lâminas 
 
 # Habilidade de cada boss:
 
-1- Polvo de aneis azuis: Com os seus aneis no corpo ele irá lançar raios psíquicos na direção do jogador, fazendo com que ele aprenda como se movimentar na água já que será o primeiro chefe
+1- Polvo de aneis azuis: Com os seus aneis no corpo ele irá lançar raios psíquicos na direção do jogador, fazendo com que ele se mova lentamente na água e usara telecinese para lançar objetos do cenário no player
 
 2- Camarão pistola: Socos fortes e rápidos, com tanto golpes de perto com socos ou golpes de longe com bolhas.
 
