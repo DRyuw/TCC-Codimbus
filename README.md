@@ -65,7 +65,7 @@ Para o Design de tanto da lança quanto a tridente, fazendo com que as lâminas 
 
 2- Camarão pistola: Socos fortes e rápidos, com tanto golpes de perto com socos ou golpes de longe com bolhas.
 
-3- Tubarão lanterna: Com sua luz e seu olhar ele poderá cegar o jogador e dar dano nele, e por causa do tamanho colossal dele qualquer mordida ou movimento pode causar movimentos insanos dentro da água, fazendo com que o jogador tenha tanto o chefe quanto o ambiente como desafio.
+3- Tubarão lanterna: Com sua luz e seu olhar ele poderá cegar o jogador e dar dano nele, por causa do tamanho colossal dele qualquer mordida ou movimento pode causar movimentos insanos dentro da água, fazendo com que o jogador tenha tanto o chefe quanto o ambiente como desafio.
 
 4- Caranguejo Yeti: Braços gigantes com garras tanto para machucar o player quanto para soltar os lasers como Godzila, derrubando pedras, destruindo o cenário e danificando o jogador.
 
