@@ -63,7 +63,7 @@ Para o Design de tanto da lança quanto a tridente, fazendo com que as lâminas 
 
 1- Polvo de aneis azuis: Com os seus aneis no corpo ele irá lançar raios psíquicos na direção do jogador, fazendo com que ele se mova lentamente na água e usara telecinese para lançar objetos do cenário no player
 
-2- Camarão pistola: Socos fortes e rápidos, com tanto golpes de perto com socos ou golpes de longe com bolhas.
+2- Camarão pistola: Utiliza de vários socos fortes e rápidos, e com seu braço que lembra uma pistola ele lança um tiro de água.
 
 3- Tubarão lanterna: Com sua luz e seu olhar ele poderá cegar o jogador e dar dano nele, por causa do tamanho colossal dele qualquer mordida ou movimento pode causar movimentos insanos dentro da água, fazendo com que o jogador tenha tanto o chefe quanto o ambiente como desafio.
 
