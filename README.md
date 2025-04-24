@@ -96,5 +96,6 @@ Abys: Esta parte da palavra tem uma ligação mais clara. "Abys" provavelmente d
 
 (Mostraremos que esse final na verdade seja óbvio por tosses de sangue ou algumas mudanças na tela/pele da personagem mostrando o quão ela está afetada por causa da radioatividade)
 
+![IMG-20250422-WA0022.jpg](https://github.com/user-attachments/assets/0de8209a-7698-49fd-834c-70ba131417ca)
 
 
