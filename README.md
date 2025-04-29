@@ -7,7 +7,7 @@ Site: https://www.canva.com/design/DAGiWkJePXw/tyco0hJWMH0x8zMF2FaCYw/edit?utm_c
 Slides:  https://www.canva.com/design/DAGiQ8RzVtQ/uQZLLSwb6tmhosRWqcUl9Q/edit?utm_content=DAGiQ8RzVtQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ---
-# Jogos de referência: Dredge, Dave the Diver, Subnautica, Hollow knight, Titan Souls, Eldest Souls, Cuphead
+# Jogos de referência: Dredge, Dave the Diver, Subnautica, Titan Souls, Eldest Souls, Cuphead
 
 ---
 Mecânicas: Um Boss Rush com o combate usando uma lança de pesca, arpão, e tridentes. Porém a cada boss derrotado ele te dará uma memória para poder ver tanto uma "dica" sobre o próximo boss quanto uma parte da história.
