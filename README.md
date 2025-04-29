@@ -31,7 +31,7 @@ Para o Design de tanto da lança quanto a tridente, fazendo com que as lâminas 
 
 ---
 # Habilidade das Armas:
-- Lança de pesca/Tridente solta uma pressão de água por conta da radiação e também gera escudos para o protagonista e consegue quebrar pedras para avançar no jogo
+- Lança de pesca/Tridente solta uma pressão de água por conta da radiação,  gera escudos de gelo e quebra pedras para avançar no jogo
 - Arpão ao atirar o arpão a flecha dele emitirá uma luz forte que deixara os inimigos desorientados e fazendo com que você vá até aquele lugar, como se fosse um gancho.
 
 ---
