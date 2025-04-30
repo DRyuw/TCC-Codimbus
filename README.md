@@ -61,6 +61,11 @@ Para o Design de tanto da lança quanto a tridente, fazendo com que as lâminas 
 # Peixe pescador
 ![image](https://github.com/user-attachments/assets/993f6481-5265-4878-b062-66715d8729c8)
 
+# Habilidades das armas:
+ - Lança/Tridente:  "Escudo de gelo" para não levar dano, fazer pressão de água para um "Ataque pesado" e poder tanto causar muito dano quanto quebrar parede, ataques normais e rápidos e por fim ataque de longe sendo um "Raio" que dá um dano médio.
+
+ - Arpão: Usar como se fosse um gancho para dar "Dash" se prendendo nos cantos do mapa ou nos inimigos podendo o levar para ele rápidamente e paralizando eles por um curto tempo.
+
 # Habilidade de cada boss:
 
 1- Polvo de aneis azuis: Com os seus aneis no corpo ele irá lançar raios psíquicos na direção do jogador, fazendo com que ele se mova lentamente na água e usara telecinese para lançar objetos do cenário no player
@@ -71,7 +76,7 @@ Para o Design de tanto da lança quanto a tridente, fazendo com que as lâminas 
 
 4- Caranguejo Yeti: Braços gigantes com garras tanto para machucar o player quanto para soltar os lasers como Godzila, derrubando pedras, destruindo o cenário e danificando o jogador.
 
-5- Enguia elétrica: Com seu corpo estilo serpente se move rapidamente pela água e gera raios de todo seu corpo, consegue gerar um escudo de raios em volta de seu corpo e consegue atrair objetos com sua eletricidade. Vamos fazer com que o jogador use uma habilidade única para conseguir ganhar dela, que seria um "Escudo de gelo" para não levar dano dos seus raios, já que a água é um ótimo condutor de eletrecidade.
+5- Enguia elétrica: Com seu corpo estilo serpente se move rapidamente pela água e gera raios de todo seu corpo, consegue gerar um escudo de raios em volta de seu corpo e consegue atrair objetos com sua eletricidade.
 
 Final- Peixe pescador: Usando sua "Isca" que imita o amigo do jogador, ele consegue fazer com que o jogador primeiro lute contra o amigo dele pra depois revelar sua forma, dando tanto mordidas quanto luzes que cegam o jogador e com a "isca" ele faz ilusões dele mesmo para confundir o player para ele não saber onde está.
 
