@@ -27,12 +27,6 @@ Para o Design de tanto da lança quanto a tridente, fazendo com que as lâminas 
 # Arpão (Arma de longe):
 ![image](https://github.com/user-attachments/assets/925fdee1-ea07-4daa-9ff7-9bf682136729)
 
-
----
-# Habilidade das Armas:
-- Lança de pesca/Tridente solta uma pressão de água por conta da radiação,  gera escudos de gelo e quebra pedras para avançar no jogo
-- Arpão ao atirar o arpão a flecha dele emitirá uma luz forte que deixara os inimigos desorientados e fazendo com que você vá até aquele lugar, como se fosse um gancho.
-
 ---
 # Bosses:
 - 1º Polvo de Anéis Azuis -  50 metros - Nome do boss: **Spectrum Ring - Psychlaena** (Por causa da aparência e dos anéis azuis em volta do corpo, ele traz um ar místico assim sendo um "Spectrum")
