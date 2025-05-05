@@ -8,7 +8,7 @@ Site: https://www.canva.com/design/DAGiWkJePXw/tyco0hJWMH0x8zMF2FaCYw/edit?utm_c
 Slides:  https://www.canva.com/design/DAGiQ8RzVtQ/uQZLLSwb6tmhosRWqcUl9Q/edit?utm_content=DAGiQ8RzVtQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ---
-GDD: 
+GDD: https://github.com/DRyuw/GDD-TCC-Codimbus.git
 
 ---
 # Referência: Dredge, Dave the Diver, Subnautica, Titan Souls, Eldest Souls, Cuphead, Cthulhu
