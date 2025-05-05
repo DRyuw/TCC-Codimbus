@@ -94,7 +94,7 @@ Final- Peixe pescador: Usando sua "Isca" que imita o amigo do jogador, ele conse
 
 <h2>História:</h2> 
 
- <h3>Caverna subaquática</h3>
+ <h3>Talassofobia</h3>
  <p> No famoso triângulo das bermudas havia um mistério lá no fundo, tesouros e artefatos que nenhum humano seria capaz de se quer pensar em conseguir colocar as mãos nele, isso chamou a atenção do Nebus Abys e do amigo dele Kaio, porém eles apenas pesquisaram sobre isso, até que um dia ocorre um abalo sísmico que gera uma explosão em um reator nuclear. Após a explosão a radiação é espalhada pelo oceano, indo principalmente para o fundo em áreas de maior concentração, onde se encontram maiores perigos e inimigos.  <br>
  A radiação afetou os animais que moravam no oceano, principalmente os que vivem no fundo, afetando seu tamanho, agressividade e até dando poderes para alguns. Sendo assim quanto maior a profundidade, maior será nível da radiação.  <br>
   Depois do incidente, e a expansão da radioatividade pelo mar. Alguns meses depois, Nebus Abys e seu amigo, Kaio estão explorando a região sem saber dos perigos da radiação e nisso o seu amigo é levado por uma luz misteriosa que Nebus não pode ver, e Kaio desapareceu no oceano, então o Nebus decide se aventurar pelas águas na esperança de encontrar o seu amigo, ele vai descendo na caverna e passando por puzzles e andando por pontos onde teria visões do caminho percorrido pelo amigo. O Nebus irá utilizar acessórios que estavam com ele no seu barco sendo eles o arpão e a lança de pesca, conforme o player avança no jogo as armas vão adquirindo habilidades pela radiação e o Nebus vai adoecendo conforme desce.  <br>
