@@ -1,6 +1,4 @@
-
-# TCC-Codimbus <h2>
-2 </h2>
+# TCC-Codimbus 
 
 # Talassofobia
 
@@ -44,8 +42,13 @@ Para o Design de tanto da lança quanto a tridente, fazendo com que as lâminas 
 - 5º Enguia - 1.000 e 4.000 metros - Nome do boss: **Guillashock** (Uma abreviação para anguilla que é enguia no latim e já que é um animal elétrico colocamos no nome sua característica marcante)
 - Final: Peixe Pescador - 1.000 e 4.000 metros - Nome do boss: **Glimmering Doom** (Já que ele irá atrair o jogador para ele, tivemos a ideia de fazer jus a luz que ele atrai os peixes porém agora atrair o Nebus, que é um humano)
 
-# Puzzles: 
-1- 
+# Desafios de boss(ideias): 
+1- Sala de labirinto onde tem que achar oq está diferente, na direção que está diferente o jogador tem que ir para poder prosseguir (easter egg: se errar mais de 7 vezes o boss vai ficar de saco cheio e deixar você passar do puzzle)
+2- 3 caminhos, cima, meio e baixo e o jogador tem que destruir as pedras para poder ir nesse caminho, se fizer o caminho certo ele irá processeguir, se não irá efrentar uma horda (easter egg: se você enfrentar todas as hordas o boss fica animado e vai lutar mais rápido e mais frenético)
+3- O caminho fica uma escuridão total e única luz sendo ocasionalmente o olho do boss, como se fosse uma missão stealth tentando se esconder atrás de pedras e não ser pego
+4- Você irá percorrer o caminho se desviando dos lasers, como referência aquela parte do undertale se desviando dos ataques da Undyne porém com lasers
+5- Um caminho escuro que brilha de tempos em tempos com paredes elétricas que dá dano ao jogador
+6- Algo relacionado com ilusões aparecendo o melhor amigo do jogador brilhando meio que o guiando pelo caminho
 
 ---
 
