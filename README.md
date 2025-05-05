@@ -1,5 +1,6 @@
 
-# TCC-Codimbus
+# TCC-Codimbus <h2>
+2 </h2>
 
 # Talassofobia
 
@@ -17,7 +18,9 @@ GDD: Link.com
 ---
 Mecânicas: Um Boss Rush com o combate usando uma lança de pesca, arpão, e tridentes. Porém a cada boss derrotado ele te dará uma memória para poder ver tanto uma "dica" sobre o próximo boss quanto uma parte da história.
 ---
-# Música: Estilo mais frenético e tenso enquanto luta contra o boss, quando não está lutando mais sim resolvendo os puzzles a música terá um tom de lembranças de sons de água, um ar mais calmo mas aventureiro, sem muita tensão mas tendo o alerta de que qualquer coisa pode te atacar. (pensando em música estilo 8-bit ou eletrônica) 
+
+Música: Estilo mais frenético e tenso enquanto luta contra o boss, quando não está lutando mais sim resolvendo os puzzles a música terá um tom de lembranças de sons de água, um ar mais calmo mas aventureiro, sem muita tensão mas tendo o alerta de que qualquer coisa pode te atacar. (pensando em música estilo 8-bit ou eletrônica) 
+--
 
 # Armas:
 
@@ -42,6 +45,8 @@ Para o Design de tanto da lança quanto a tridente, fazendo com que as lâminas 
 - Final: Peixe Pescador - 1.000 e 4.000 metros - Nome do boss: **Glimmering Doom** (Já que ele irá atrair o jogador para ele, tivemos a ideia de fazer jus a luz que ele atrai os peixes porém agora atrair o Nebus, que é um humano)
 
 # Puzzles: 
+1- 
+
 ---
 
 # Polvo de anéis azuis
