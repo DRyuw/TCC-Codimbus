@@ -9,11 +9,16 @@ Site: https://www.canva.com/design/DAGiWkJePXw/tyco0hJWMH0x8zMF2FaCYw/edit?utm_c
 Slides:  https://www.canva.com/design/DAGiQ8RzVtQ/uQZLLSwb6tmhosRWqcUl9Q/edit?utm_content=DAGiQ8RzVtQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ---
+GDD: Link.com 
+
+---
 # Referência: Dredge, Dave the Diver, Subnautica, Titan Souls, Eldest Souls, Cuphead, Cthulhu
 
 ---
 Mecânicas: Um Boss Rush com o combate usando uma lança de pesca, arpão, e tridentes. Porém a cada boss derrotado ele te dará uma memória para poder ver tanto uma "dica" sobre o próximo boss quanto uma parte da história.
 ---
+# Música: Estilo mais frenético e tenso enquanto luta contra o boss, quando não está lutando mais sim resolvendo os puzzles a música terá um tom de lembranças de sons de água, um ar mais calmo mas aventureiro, sem muita tensão mas tendo o alerta de que qualquer coisa pode te atacar. (pensando em música estilo 8-bit ou eletrônica) 
+
 # Armas:
 
 # Lança de pesca (Arma de perto):
@@ -35,6 +40,8 @@ Para o Design de tanto da lança quanto a tridente, fazendo com que as lâminas 
 - 4º Caranguejo Yeti - 2,200 metros - Nome do boss: **Zilla Yeti - Crustacean Yeti** (Faz referência ao Godzila e ao nome da espécie, já que ela será inspirada bastante na obra e no kaiju)
 - 5º Enguia - 1.000 e 4.000 metros - Nome do boss: **Guillashock** (Uma abreviação para anguilla que é enguia no latim e já que é um animal elétrico colocamos no nome sua característica marcante)
 - Final: Peixe Pescador - 1.000 e 4.000 metros - Nome do boss: **Glimmering Doom** (Já que ele irá atrair o jogador para ele, tivemos a ideia de fazer jus a luz que ele atrai os peixes porém agora atrair o Nebus, que é um humano)
+
+# Puzzles: 
 ---
 
 # Polvo de anéis azuis
