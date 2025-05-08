@@ -22,13 +22,9 @@ Música: Estilo mais frenético e tenso enquanto luta contra o boss, quando não
 
 # Armas:
 
-# Lança de pesca (Arma de perto):
-![image](https://github.com/user-attachments/assets/b87ecfbe-ee7f-48d6-9f94-f08bfdfdec78)
+# Tridente (Arma de perto):
+![image](https://github.com/user-attachments/assets/996095e9-a088-45f1-a712-2e4b73d9820c)
 
-# Tridente (Tanto de perto quanto longe para lançar):
-![image](https://github.com/user-attachments/assets/a1e4da44-dbd3-43ba-8934-dae310ba389d)
-
-Para o Design de tanto da lança quanto a tridente, fazendo com que as lâminas dos lados fiquem em todos os lados, parecendo a primeira imagem mas sendo as lâminas do tridente.
 
 # Arpão (Arma de longe):
 ![image](https://github.com/user-attachments/assets/925fdee1-ea07-4daa-9ff7-9bf682136729)
