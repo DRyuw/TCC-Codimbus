@@ -42,8 +42,8 @@ Música: Estilo mais frenético e tenso enquanto luta contra o boss, quando não
 - 1: Sala de labirinto onde tem que achar oq está diferente, na direção que está diferente o jogador tem que ir para poder prosseguir (easter egg: se errar mais de 7 vezes o boss vai ficar de saco cheio e deixar você passar do puzzle)
 - 2: 3 caminhos, cima, meio e baixo e o jogador tem que destruir as pedras para poder ir nesse caminho, se fizer o caminho certo ele irá processeguir, se não irá efrentar uma horda (easter egg: se você enfrentar todas as hordas o boss fica animado e vai lutar mais rápido e mais frenético)
 - 3: O caminho fica uma escuridão total e única luz sendo ocasionalmente o olho do boss, como se fosse uma missão stealth tentando se esconder atrás de pedras e não ser pego (easter egg: caso não seja pego nenhuma vez o boss ficará surpreso e não irá te atacar por um pouco tempo já que está surpreso que você está lá sem ele ver)
-- 4: Você irá percorrer o caminho se desviando dos lasers, como referência aquela parte do undertale se desviando dos ataques da Undyne porém com lasers
-- 5: Um caminho escuro que brilha de tempos em tempos com paredes elétricas que dá dano ao jogador
+- 4: Você irá percorrer o caminho se desviando dos lasers e pedras caindo, como referência a parte do undertale que o personagem se desvian dos ataques da Undyne porém com lasers
+- 5: Um caminho escuro que brilha de tempos em tempos com paredes elétricas que dá dano ao jogador.
 - 6: Algo relacionado com ilusões aparecendo o melhor amigo do jogador brilhando meio que o guiando pelo caminho cheio de inimigos (easter egg: se o jogador conseguir alcançar o "amigo" antes de chegar no locar indicado o boss começa antes e o boss começa com 10% a menos de vida por não estar pronto ou algo assim)
 
 ---
