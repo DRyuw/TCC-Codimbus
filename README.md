@@ -23,7 +23,11 @@ Música: Estilo mais frenético e tenso enquanto luta contra o boss, quando não
 # Armas:
 
 # Tridente (Arma de perto):
-![image](https://github.com/user-attachments/assets/996095e9-a088-45f1-a712-2e4b73d9820c)
+# Opção 1:
+![image](https://github.com/user-attachments/assets/30068e4e-81b4-42af-b1fe-5397229fe9c4)
+
+# Opção 2:
+![image](https://github.com/user-attachments/assets/3bc8062a-530c-499d-9755-bcdaae63ae53)
 
 
 # Arpão (Arma de longe):
