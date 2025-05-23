@@ -33,18 +33,16 @@ Música: Estilo mais frenético e tenso enquanto luta contra o boss, quando não
 # Bosses:
 - 1º Polvo de Anéis Azuis -  50 metros - Nome do boss: **Spectrum Ring - Psychlaena** (Por causa da aparência e dos anéis azuis em volta do corpo, ele traz um ar místico assim sendo um "Spectrum")
 - 2º Camarão Pistola - 30-100 metros - Nome do boss: **Bomb Punch - Shrimp Tyson** (Referência à potência do "soco" do camarão, o comparando-o com uma bomba)
-- 3º Tubarão Lanterna - 160-1000 metros - Nome do boss: **Light Titan - FlaShark** (Mesmo a espécie original sendo minúscula ela será tratada como gigante no jogo por conta da radiação, e a espécie desse tubarão produz luz bioluminescente)
-- 4º Caranguejo Yeti - 2,200 metros - Nome do boss: **Zilla Yeti - Crustacean Yeti** (Faz referência ao Godzila e ao nome da espécie, já que ela será inspirada bastante na obra e no kaiju)
-- 5º Enguia - 1.000 e 4.000 metros - Nome do boss: **Guillashock** (Uma abreviação para anguilla que é enguia no latim e já que é um animal elétrico colocamos no nome sua característica marcante)
+- 3º Caranguejo Yeti - 2,200 metros - Nome do boss: **Zilla Yeti - Crustacean Yeti** (Faz referência ao Godzila e ao nome da espécie, já que ela será inspirada bastante na obra e no kaiju)
+- 4º Enguia - 1.000 e 4.000 metros - Nome do boss: **Guillashock** (Uma abreviação para anguilla que é enguia no latim e já que é um animal elétrico colocamos no nome sua característica marcante)
 - Final: Peixe Pescador - 1.000 e 4.000 metros - Nome do boss: **Glimmering Doom** (Já que ele irá atrair o jogador para ele, tivemos a ideia de fazer jus a luz que ele atrai os peixes porém agora atrair o Nebus, que é um humano)
 
 # Desafios de boss(ideias): 
 - 1: Sala de labirinto onde tem que achar oq está diferente, na direção que está diferente o jogador tem que ir para poder prosseguir (easter egg: se errar mais de 7 vezes o boss vai ficar de saco cheio e deixar você passar do puzzle)
 - 2: 3 caminhos, cima, meio e baixo e o jogador tem que destruir as pedras para poder ir nesse caminho, se fizer o caminho certo ele irá processeguir, se não irá efrentar uma horda (easter egg: se você enfrentar todas as hordas o boss fica animado e vai lutar mais rápido e mais frenético)
-- 3: O caminho fica uma escuridão total e única luz sendo ocasionalmente o olho do boss, como se fosse uma missão stealth tentando se esconder atrás de pedras e não ser pego (easter egg: caso não seja pego nenhuma vez o boss ficará surpreso e não irá te atacar por um pouco tempo já que está surpreso que você está lá sem ele ver)
-- 4: Você irá percorrer o caminho se desviando dos lasers e pedras caindo, como referência a parte do undertale que o personagem se desvian dos ataques da Undyne porém com lasers
-- 5: Um caminho escuro que brilha de tempos em tempos com paredes elétricas que dá dano ao jogador.
-- 6: Algo relacionado com ilusões aparecendo o melhor amigo do jogador brilhando meio que o guiando pelo caminho cheio de inimigos (easter egg: se o jogador conseguir alcançar o "amigo" antes de chegar no locar indicado o boss começa antes e o boss começa com 10% a menos de vida por não estar pronto ou algo assim)
+- 3: Você irá percorrer o caminho se desviando dos lasers e pedras caindo, como referência a parte do undertale que o personagem se desvian dos ataques da Undyne porém com lasers
+- 4: Um caminho escuro que brilha de tempos em tempos com paredes elétricas que dá dano ao jogador.
+- 5: Algo relacionado com ilusões aparecendo o melhor amigo do jogador brilhando meio que o guiando pelo caminho cheio de inimigos (easter egg: se o jogador conseguir alcançar o "amigo" antes de chegar no locar indicado o boss começa antes e o boss começa com 10% a menos de vida por não estar pronto ou algo assim)
 
 ---
 
@@ -53,9 +51,6 @@ Música: Estilo mais frenético e tenso enquanto luta contra o boss, quando não
 
 # Camarão pistola
 ![image](https://github.com/user-attachments/assets/25fdbd85-42b2-42ca-90b5-59203c90c0d7)
-
-# Tubarão Lanterna
-![image](https://github.com/user-attachments/assets/60aff476-fdf4-44a7-977a-f86d8dbd15fd)
 
 # Caranguejo Yeti
 ![image](https://github.com/user-attachments/assets/750f35d0-178f-4087-a4f1-8a5d0572a38c)
