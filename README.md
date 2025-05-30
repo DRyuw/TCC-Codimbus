@@ -20,6 +20,10 @@ Mecânicas: Um Boss Rush com o combate usando uma lança de pesca, arpão, e tri
 Música: Estilo mais frenético e tenso enquanto luta contra o boss, quando não está lutando mais sim resolvendo os puzzles a música terá um tom de lembranças de sons de água, um ar mais calmo mas aventureiro, sem muita tensão mas tendo o alerta de que qualquer coisa pode te atacar. (pensando em música estilo 8-bit ou eletrônica) 
 --
 
+# Personagem:
+![image](https://github.com/user-attachments/assets/0c96acbd-712f-4296-bf8f-c8ded61d0df2)
+
+
 # Armas:
 
 # Tridente (Arma de perto):
