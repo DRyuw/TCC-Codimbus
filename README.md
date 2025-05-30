@@ -23,6 +23,8 @@ Música: Estilo mais frenético e tenso enquanto luta contra o boss, quando não
 # Personagem:
 ![image](https://github.com/user-attachments/assets/0c96acbd-712f-4296-bf8f-c8ded61d0df2)
 
+# Com Máscara
+![image](https://github.com/user-attachments/assets/66586e40-e56a-4a8a-a431-08ef7938edf0)
 
 # Armas:
 
