@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3jd\\Desktop\\Codimbus\\Codimbus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD1E330-C0DB-6C4F-02A1-95DFF4CF1AE0}|Assembly-CSharp.csproj|c:\\users\\3jd\\desktop\\codimbus\\codimbus\\assets\\script\\movimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD1E330-C0DB-6C4F-02A1-95DFF4CF1AE0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\movimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movimento.cs",
+              "DocumentMoniker": "C:\\Users\\3jd\\Desktop\\Codimbus\\Codimbus\\Assets\\Script\\Movimento.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Movimento.cs",
+              "ToolTip": "C:\\Users\\3jd\\Desktop\\Codimbus\\Codimbus\\Assets\\Script\\Movimento.cs",
+              "RelativeToolTip": "Assets\\Script\\Movimento.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:34:49.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
