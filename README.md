@@ -1,4 +1,9 @@
 # TCC-Codimbus 
+Sinopse
+Diagrama mobile
+Diagrama jogo
+
+
 
 # Promessa do Igor
 
@@ -115,4 +120,5 @@ Abys: Esta parte da palavra tem uma ligação mais clara. "Abys" provavelmente d
 ![IMG-20250422-WA0022.jpg](https://github.com/user-attachments/assets/0de8209a-7698-49fd-834c-70ba131417ca)
 
 ![image](https://github.com/user-attachments/assets/738d5eff-5936-435f-89f0-445adaa7ecaa)
+
 
