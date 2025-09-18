@@ -116,3 +116,8 @@ Abys: Esta parte da palavra tem uma ligação mais clara. "Abys" provavelmente d
 
 ![image](https://github.com/user-attachments/assets/738d5eff-5936-435f-89f0-445adaa7ecaa)
 
+
+Diagrama de Classes Mobile
+
+![IMG-20250912-WA0110.jpg](https://github.com/user-attachments/assets/cabedcf3-ca0b-4a43-8819-07148eec54e8)
+
