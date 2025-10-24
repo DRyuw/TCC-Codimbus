@@ -124,6 +124,9 @@ Slides:  https://www.canva.com/design/DAGiQ8RzVtQ/uQZLLSwb6tmhosRWqcUl9Q/edit?ut
 GDD: https://github.com/DRyuw/GDD-TCC-Codimbus.git
 
 ---
+ABNT: https://github.com/Bruno616/ABNT-Codimbus
+
+---
 # Referência: Dredge, Dave the Diver, Subnautica, Titan Souls, Eldest Souls, Cuphead, Cthulhu
 
 ---
@@ -226,6 +229,7 @@ Abys: Esta parte da palavra tem uma ligação mais clara. "Abys" provavelmente d
 ![IMG-20250422-WA0022.jpg](https://github.com/user-attachments/assets/0de8209a-7698-49fd-834c-70ba131417ca)
 
 ![image](https://github.com/user-attachments/assets/738d5eff-5936-435f-89f0-445adaa7ecaa)
+
 
 
 
