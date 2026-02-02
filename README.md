@@ -1,9 +1,8 @@
 # TCC-Codimbus 
-Sinopse
 
+# 1. Ataque
 
-
-
+``` 
 using UnityEngine;
 
 public class PlayerAttack : MonoBehaviour
@@ -52,16 +51,22 @@ public class PlayerAttack : MonoBehaviour
         Debug.DrawLine(center + Vector3.right * hitboxSize.x / 2, center - Vector3.right * hitboxSize.x / 2, Color.red, 0.2f);
     }
 }
-2. Interface IHittable.cs
+``` 
+
+# 2. Interface 
+``` 
+IHittable.cs
 csharp
-Copiar código
+
 public interface IHittable
 {
     void OnHit();
 }
-3. Exemplo de inimigo Enemy.cs
+```
+# 3. Inimigo/Boss
+``` 
+Enemy.cs
 csharp
-Copiar código
 using UnityEngine;
 
 public class Enemy : MonoBehaviour, IHittable
@@ -72,46 +77,9 @@ public class Enemy : MonoBehaviour, IHittable
     {
         hitCount++;
         Debug.Log($"{gameObject.name} foi atingido! Total de hits: {hitCount}");
-        // Aqui você pode adicionar efeitos visuais, sons, etc.
     }
 }
-🧪 Dicas de Configuração no Unity
-Crie um Empty GameObject como attackOrigin, posicione na frente do personagem.
-
-Defina a camada "Enemy" e adicione aos inimigos.
-
-Certifique-se de que os inimigos têm Collider e que o OverlapBox colida com essa camada.
-
-🧠 Observações
-Esse sistema é baseado em área, como Hollow Knight. Não depende de animações nem Raycasts.
-
-Você pode integrar com a animação de ataque se quiser sincronizar o ataque com frames específicos.
-
-Pode expandir para múltiplos tipos de ataque alterando o hitboxSize.
-
-⚔️ Expansões Futuras
-Adicionar invulnerabilidade temporária nos inimigos após um hit.
-
-Suporte a múltiplos tipos de ataque (fraco, forte).
-
-Efeitos visuais na área do ataque (Gizmos, VFX, etc).
-
-Sincronização com Animation Events para frame exato do ataque.
-
-Se quiser, posso te ajudar a adicionar o ataque às animações do personagem ou criar gizmos para visualizar no editor. Quer seguir com isso?
-
-
-
-Perguntar ao ChatGPT
-
-
-Diagrama mobile
-
-Diagrama jogo
-
-
-
-# Promessa do Igor
+``` 
 
 # Talassofobia
 
@@ -229,6 +197,7 @@ Abys: Esta parte da palavra tem uma ligação mais clara. "Abys" provavelmente d
 ![IMG-20250422-WA0022.jpg](https://github.com/user-attachments/assets/0de8209a-7698-49fd-834c-70ba131417ca)
 
 ![image](https://github.com/user-attachments/assets/738d5eff-5936-435f-89f0-445adaa7ecaa)
+
 
 
 
